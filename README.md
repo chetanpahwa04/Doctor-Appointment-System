@@ -1,0 +1,2 @@
+# Doctor-Appointment-System
+Features This project manages doctor appointment ,The record is maintained even if application is closed ,Compiled on Dev C++/ g++
